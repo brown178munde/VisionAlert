@@ -1,3 +1,6 @@
+#use this code to use your laptop camera as video input for yolov8 to process and display count on oled
+#good for demo incase the fps on esp32 cam stream is poor
+
 import cv2
 import requests
 import time
