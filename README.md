@@ -13,7 +13,7 @@ VisionAlert is a real-time crowd detection and alert system using ESP32-CAM for 
 - ESP32-CAM
 - Buzzer
 - Laptop (for Python processing)
-- Optional: esp32,OLED display, PS4 controller, servo motor
+- Optional: esp32,OLED display, ( PS4 controller, servo motor ) to control the view point of camera
 
 ## 🧠 Software Stack
 - Python (OpenCV, Ultralytics YOLOv8, Twilio)
